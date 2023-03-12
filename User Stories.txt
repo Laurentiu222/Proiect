@@ -18,3 +18,15 @@ Bacila Laurentiu User Stories:
 • As a flight attendant, I want to be able to view passenger details such as their seat numbers, special requests, and dietary preferences.
 
 • As a baggage handler, I want to be able to scan and track luggage so that it can be easily located and delivered to the correct destination.
+
+Muncioiu Andrei-Laurentiu User Stories:
+
+• As a client, I want to receive notifications about flight delays, cancellations, or changes to my itinerary.
+
+• As a customer service representative, I want to be able to issue refunds and process cancellations for clients, so that I can provide excellent customer service and ensure that clients are satisfied with their experience.
+
+• As a flight manager, I want to be able to view data on flight delays and cancellations, so that I can make informed decisions about scheduling and resource allocation.
+
+• As a customer service representative, I want to be able to modify bookings for clients, such as changing flight times or dates, so that I can accommodate their needs and requests.
+
+
