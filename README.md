@@ -1,5 +1,6 @@
 # Proiect
 Bacila Laurentiu User Stories:
+
 • As a flight manager, I want to be able to view and manage flight schedules.
 
 • As a pilot, I want to be able to view flight details such as departure time, arrival time, and flight duration.

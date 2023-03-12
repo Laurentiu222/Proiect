@@ -6,3 +6,15 @@ User stories should describe a sequence of interactions with the system but shou
 2. As a client, I want to browse or search available flights.
 3. As a client, I want to be able to book one or more flights to different destinations.
 4. As a client, I want to be able to choose different payment methods such as visa, paypal etc..
+
+Bacila Laurentiu User Stories:
+
+• As a flight manager, I want to be able to view and manage flight schedules.
+
+• As a pilot, I want to be able to view flight details such as departure time, arrival time, and flight duration.
+
+• As a passenger, I want to be able to book a flight and select my seat.
+
+• As a flight attendant, I want to be able to view passenger details such as their seat numbers, special requests, and dietary preferences.
+
+• As a baggage handler, I want to be able to scan and track luggage so that it can be easily located and delivered to the correct destination.
