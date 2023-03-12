@@ -1,0 +1,8 @@
+--- This document is dedicated to User stories. ---
+
+User stories should describe a sequence of interactions with the system but should not include details of these interactions.
+
+1. As a client, I want to view my booking history.
+2. As a client, I want to browse or search available flights.
+3. As a client, I want to be able to book one or more flights to different destinations.
+4. As a client, I want to be able to choose different payment methods such as visa, paypal etc..
