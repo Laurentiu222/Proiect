@@ -1,0 +1,17 @@
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\bin\Debug\net7.0\FlightManagement.Abstractions.deps.json
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\bin\Debug\net7.0\FlightManagement.Abstractions.runtimeconfig.json
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\bin\Debug\net7.0\FlightManagement.Abstractions.dll
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\bin\Debug\net7.0\FlightManagement.Abstractions.pdb
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\bin\Debug\net7.0\FlightManagement.DataModel.dll
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\bin\Debug\net7.0\FlightManagement.DataModel.pdb
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\FlightManagement.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\FlightManagement.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\FlightManagement.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\FlightManagement.Abstractions.AssemblyInfo.cs
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\FlightManagement.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\FlightManagement.Abstractions.csproj.CopyComplete
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\FlightManagement.Abstractions.dll
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\refint\FlightManagement.Abstractions.dll
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\FlightManagement.Abstractions.pdb
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\FlightManagement.Abstractions.genruntimeconfig.cache
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.Abstractions\obj\Debug\net7.0\ref\FlightManagement.Abstractions.dll

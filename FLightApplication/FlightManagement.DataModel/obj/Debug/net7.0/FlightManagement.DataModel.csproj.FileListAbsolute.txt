@@ -1,0 +1,14 @@
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\bin\Debug\net7.0\FlightManagement.DataModel.deps.json
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\bin\Debug\net7.0\FlightManagement.DataModel.runtimeconfig.json
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\bin\Debug\net7.0\FlightManagement.DataModel.dll
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\bin\Debug\net7.0\FlightManagement.DataModel.pdb
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.csproj.AssemblyReference.cache
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.AssemblyInfoInputs.cache
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.AssemblyInfo.cs
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.dll
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\refint\FlightManagement.DataModel.dll
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.pdb
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.genruntimeconfig.cache
+C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\ref\FlightManagement.DataModel.dll
