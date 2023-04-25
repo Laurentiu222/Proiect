@@ -12,5 +12,9 @@ namespace FlightManagement.Data
 
         }
         public DbSet<FlightManagement.DataModel.Booking> Booking { get; set; } = default!;
+        public DbSet<FlightManagement.DataModel.Flight> Flight { get; set; } = default!;
+        public DbSet<FlightManagement.DataModel.Passenger> Passenger { get; set; } = default!;
+        public DbSet<FlightManagement.DataModel.Seat> Seat { get; set; } = default!;
+        public DbSet<FlightManagement.DataModel.TIcket> TIcket { get; set; } = default!;
     }
 }

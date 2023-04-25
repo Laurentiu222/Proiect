@@ -12,3 +12,17 @@ C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataMo
 C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.pdb
 C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.genruntimeconfig.cache
 C:\Users\Andy\Desktop\ProiectFLightApp\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\ref\FlightManagement.DataModel.dll
+D:\git\FLightApplication\FlightManagement.DataModel\bin\Debug\net7.0\FlightManagement.DataModel.deps.json
+D:\git\FLightApplication\FlightManagement.DataModel\bin\Debug\net7.0\FlightManagement.DataModel.runtimeconfig.json
+D:\git\FLightApplication\FlightManagement.DataModel\bin\Debug\net7.0\FlightManagement.DataModel.dll
+D:\git\FLightApplication\FlightManagement.DataModel\bin\Debug\net7.0\FlightManagement.DataModel.pdb
+D:\git\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.csproj.AssemblyReference.cache
+D:\git\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.AssemblyInfoInputs.cache
+D:\git\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.AssemblyInfo.cs
+D:\git\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.csproj.CoreCompileInputs.cache
+D:\git\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.dll
+D:\git\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\refint\FlightManagement.DataModel.dll
+D:\git\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.pdb
+D:\git\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\FlightManagement.DataModel.genruntimeconfig.cache
+D:\git\FLightApplication\FlightManagement.DataModel\obj\Debug\net7.0\ref\FlightManagement.DataModel.dll
